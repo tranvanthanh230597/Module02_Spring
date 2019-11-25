@@ -11,6 +11,9 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <a href="/greeting02">greeting 02</a>
+  <a href="/greeting01">greeting 01</a>
+  <a href="/greetingNumber/10">greeting Number 10</a>
+  <a href="/inputChangeMoney">change Money</a>
   </body>
 </html>

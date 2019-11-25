@@ -6,7 +6,18 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ea8c779-1ffa-4314-93aa-9f1796d5a434" name="Default Changelist" comment="" />
+    <list default="true" id="2ea8c779-1ffa-4314-93aa-9f1796d5a434" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/changeMoneyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view/changeMoney/inputChangeMoney.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/view/changeMoney/outputChangeMoney.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Module02_Spring_war_exploded/WEB-INF/classes/controller/greetingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Module02_Spring_war_exploded/WEB-INF/classes/controller/greetingController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Module02_Spring_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Module02_Spring_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module02_Spring/controller/greetingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module02_Spring/controller/greetingController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/greetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/greetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +33,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -30,15 +44,20 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1TxhkVFf9sieP1mSNXxNNnKJrN7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tranv\Desktop\Module02_Spring\web\view\changeMoney" />
       <recent name="C:\Users\tranv\Desktop\Module02_Spring\web" />
     </key>
   </component>
@@ -138,11 +157,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574407796600</updated>
-      <workItem from="1574407802485" duration="2980000" />
+      <workItem from="1574407802485" duration="4151000" />
+      <workItem from="1574413338222" duration="4573000" />
+      <workItem from="1574597699241" duration="213000" />
+      <workItem from="1574648740679" duration="853000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
