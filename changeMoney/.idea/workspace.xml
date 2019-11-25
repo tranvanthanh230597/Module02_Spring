@@ -7,13 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ea8c779-1ffa-4314-93aa-9f1796d5a434" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../greeting/src/controller/greetingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../greeting/web/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../greeting/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../greeting/web/view/greeting01.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../greeting/web/view/greeting02.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../greeting/web/view/greetingInput.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../greeting/web/view/greetingOutput.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/src/controller/dictionaryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/web/view/inputDic.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/web/view/outputDic.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +157,8 @@
       <workItem from="1574413338222" duration="4573000" />
       <workItem from="1574597699241" duration="213000" />
       <workItem from="1574648740679" duration="853000" />
-      <workItem from="1574650318917" duration="586000" />
+      <workItem from="1574650318917" duration="1172000" />
+      <workItem from="1574651745491" duration="922000" />
     </task>
     <servers />
   </component>
