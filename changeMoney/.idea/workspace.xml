@@ -7,16 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ea8c779-1ffa-4314-93aa-9f1796d5a434" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/changeMoneyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/view/changeMoney/inputChangeMoney.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/view/changeMoney/outputChangeMoney.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Module02_Spring_war_exploded/WEB-INF/classes/controller/greetingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Module02_Spring_war_exploded/WEB-INF/classes/controller/greetingController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Module02_Spring_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Module02_Spring_war_exploded/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module02_Spring/controller/greetingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module02_Spring/controller/greetingController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/greetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/greetingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greeting/src/controller/greetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greeting/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greeting/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greeting/web/view/greeting01.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greeting/web/view/greeting02.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greeting/web/view/greetingInput.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greeting/web/view/greetingOutput.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +31,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -48,6 +45,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -161,6 +159,7 @@
       <workItem from="1574413338222" duration="4573000" />
       <workItem from="1574597699241" duration="213000" />
       <workItem from="1574648740679" duration="853000" />
+      <workItem from="1574650318917" duration="586000" />
     </task>
     <servers />
   </component>
