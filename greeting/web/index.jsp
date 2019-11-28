@@ -11,6 +11,8 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <a href="/greeting01">greeting 01</a>
+  <a href="/greeting02">greeting 02</a>
+  <a href="/greetingInput">greeting Input</a>
   </body>
 </html>
