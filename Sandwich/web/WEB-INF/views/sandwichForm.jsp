@@ -19,7 +19,7 @@
         <tr>
             <td><label>Chose sandwich condiments</label></td>
             <td><input type="checkbox" value="Lettuce" name="condiments">Lettuce</td>
-            <td><input type="checkbox" value="Tomato" name="condiments">Tomato</td>
+            <td><input type="checkbox" value="Tomato"  name="condiments">Tomato</td>
             <td><input type="checkbox" value="Mustard" name="condiments">Mustard</td>
             <td><input type="checkbox" value="Sprouts" name="condiments">Sprouts</td>
         </tr>
