@@ -24,10 +24,9 @@ public class CustomerRepositoryImpl implements CustomerRepository {
 
     @Override
     public Customer findById(Long id) {
-        TypedQuery<Customer> query = em.createQuery("select c from Customer c where  c.id=:id", Customer.class);
-        query.setParameter("id", id);
+        Customer customer = em.find(Customer.class , id);
         try {
-            return query.getSingleResult();
+            return customer;
         }catch (NoResultException e){
             return null;
         }

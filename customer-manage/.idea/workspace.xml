@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abd107ba-9970-46fe-89fa-487c6401132d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer_manages/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_manages/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_manages/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_manages/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_manages/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_manages/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_manages/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_manages/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_manages/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_manages/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_manages/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_manages/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_manages/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_manages/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_manages/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_manages/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_manages/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_manages/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_manages/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_manages/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_manages/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_manages/build/classes/java/main/com/codegym/cms/repository/impl/CustomerRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_manages/build/classes/java/main/com/codegym/cms/repository/impl/CustomerRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_manages/build/libs/customer_manage-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_manages/build/libs/customer_manage-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_manages/src/main/java/com/codegym/cms/repository/impl/CustomerRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_manages/src/main/java/com/codegym/cms/repository/impl/CustomerRepositoryImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,6 +173,8 @@
       <workItem from="1575528561539" duration="3848000" />
       <workItem from="1575616213359" duration="35000" />
       <workItem from="1575619707886" duration="18000" />
+      <workItem from="1575969551743" duration="1692000" />
+      <workItem from="1576047797900" duration="121000" />
     </task>
     <servers />
   </component>
@@ -236,9 +250,9 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state width="1258" height="224" key="GridCell.Tab.2.right/0.0.1600.900@0.0.1600.900" timestamp="1575532433550" />
-    <state x="425" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1575528568754">
+    <state x="425" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1576047844204">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="425" y="229" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1575528568754" />
+    <state x="425" y="229" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1576047844204" />
   </component>
 </project>
